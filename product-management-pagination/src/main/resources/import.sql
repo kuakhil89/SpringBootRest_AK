@@ -1,0 +1,1 @@
+insert into product(pid ,pname,pprice) values(10,'LapTop',20000);
